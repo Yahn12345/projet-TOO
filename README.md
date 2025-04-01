@@ -1,4 +1,6 @@
 # projet-TOO
+
+#partie1
 import random
 from datetime import datetime
 
