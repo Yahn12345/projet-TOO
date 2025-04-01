@@ -149,6 +149,7 @@ for transaction in client1.compte.consulter_transactions():
 
 # Test d'un retrait qui échoue (montant trop élevé)
 client1.retirer_fonds(20000)  # Cela doit échouer
+# Partie 2
 class Joueur:
     def _init_(self, nom, symbole):
         self.nom = nom
