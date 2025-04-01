@@ -3,7 +3,13 @@
 #partie1
 import random
 from datetime import datetime
-
+#Nom des membres du groupe
+.KOKO KOFFI ARIEL
+.KOMAN ANGENOR
+.TANO YAHAN
+.KONE SUIH ISSA
+.DJEHA ABRAHAM
+.ANOH AXEL
 # Classe de base Client
 class Client:
     def _init_(self, nom, adresse, telephone, cnic, login, mot_de_passe, limite_retrait):
